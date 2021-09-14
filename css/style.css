@@ -1,0 +1,16 @@
+div
+{
+	background-color: #f9630f;
+	width: 340px;
+	height: 140px;
+	border: 30px solid #b21414;
+}
+@media only screen and (max-width: 640px)
+{
+	div
+{
+	border-color: #000;
+	
+}
+}
+.container
